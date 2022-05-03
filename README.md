@@ -11,7 +11,7 @@
 #### Here is summary statistics for the June and December months in Oahu during the 2010-2017 years.
 June Temperature Data: | December Temperature Data:
 --- | --- |
-june_here | december_here
+![june_temp_stats](https://user-images.githubusercontent.com/98365963/166395757-51182046-3da7-4b34-aacf-1ffd3387a7a0.PNG) | ![dec_temp_stats](https://user-images.githubusercontent.com/98365963/166395760-7df5128c-a43f-40b5-8301-4c91a4ac71ff.PNG)
 * ##### 
 * #####
 * ##### 
