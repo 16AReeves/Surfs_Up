@@ -1,6 +1,6 @@
 # Surfs_Up
 ---
-## Module 9: Analysis on Oahu Temperature Data from 2010-2017 using Flask, SQLite, SQLAlchemy, and MongoDB.
+## Module 9: Analysis on Oahu Temperature Data from 2010-2017 using Flask, SQLite, and SQLAlchemy
 ---
 ### Background
 ---
